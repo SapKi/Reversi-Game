@@ -1,0 +1,3 @@
+/home/sapir/Desktop/ex5/src/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sapir/Desktop/ex5/src/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sapir/Desktop/ex5/src/server/cmake-build-debug/CMakeFiles/untitled2.dir
